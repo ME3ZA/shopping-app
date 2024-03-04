@@ -1,4 +1,9 @@
-# my_amazon_app
+# Shopping application project using flutter
+This application uses mongoose database to store users, products and orders with a backend server of node.js.
+The application has a friendly UI to login or sign up for the application once signed up a token is stored that lets the session persist until the user logs out.
+It has various categories and each category can store as many products as the admins provide.
+The user can use the option to add a product to his cart and then procceed to buy all the items in his card providing his address.
+There is an admin panel screen in which the admins can add new products as well as track the orders and their history with the option to view their details or delete them.
 
 A new Flutter project.
 
